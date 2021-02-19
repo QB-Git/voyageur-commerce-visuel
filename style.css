@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    color: #474747;
+  }
+  
+  #graph {
+    margin: 0 auto;
+  }
+  
+  svg {
+    stroke-width: 1.5px;
+  }
+  
+  .xAxis path, .yAxis path{
+    stroke: #474747;
+    fill: none;
+  }
+  
+  path.plot {
+    stroke: #FFA319;
+  }
+  circle.circle {
+    fill: #ca1010;
+  }
